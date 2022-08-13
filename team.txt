@@ -1,0 +1,7 @@
+teamName = #weAreFromSeven
+
+teamMembers --> 1. Aman Singh Rajawat (fp06_252)
+                2. Ankit Choubey (fp06_253)
+                3. Avnish Kumar (fp06_270)
+                4. Shiva Sunchu (fp06_271)
+                5. Shivbeer Singh (fp06_278)
